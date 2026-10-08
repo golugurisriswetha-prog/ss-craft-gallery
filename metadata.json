@@ -1,0 +1,6 @@
+{
+  "name": "SS Craft Gallery - Handmade & Custom Gifts",
+  "description": "Official online store for SS Craft Gallery by Chanduswamy. Order bespoke 3D resin keepsake frames, silk thread bangles, explosion boxes, and personalized gifts with secure prepaid payment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
